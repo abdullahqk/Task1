@@ -1,0 +1,37 @@
+@font-face {
+  src: url(fonts/GODOFWAR.TTF);
+  font-family: GOW;
+}
+
+body {
+  background-color: rgb(226, 196, 196);
+  line-height: 1.6em;
+  font: normal 16px Arial;
+}
+h1 {
+  font-family: GOW;
+  color: hsl(0, 0%, 0%);
+  text-shadow: 3px 3px 5px rgb(48, 2, 2);
+}
+.vid1 {
+  float: left;
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: red;
+}
+
+.wrdd {
+  text-decoration: underline;
+  color: blue;
+}
+
+.topls {
+  color: rgb(75, 165, 196);
+  text-decoration: underline;
+}
